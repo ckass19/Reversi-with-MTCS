@@ -1,0 +1,9 @@
+Instructions:
+
+-Follow guide to install Rust from https://www.rust-lang.org/learn/get-started for your OS
+-Input 'cargo build' in terminal to build project
+-Input 'cargo run' in terminal to run project
+
+Alternatives:
+
+-use one of the following IDEs to setup and run a Rust project using built-in functions: VS CODE, INTELLIJ IDEA, ECLIPSE
